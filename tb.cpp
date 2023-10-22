@@ -26,7 +26,7 @@ Clrscr();
     cin >> swap;
   }
 
-  cout << "The area of the rectangle is " << height * width << endl;
+ 
   cout << "The perimiter of the rectangle is " << 2 * (height + width) << endl;
 return 0;
 }
