@@ -25,7 +25,7 @@ Clrscr();
     cout << "Error! Type mismatch! \nInput again: ";
     cin >> swap;
   }
-
+  cout << "dong moi them";
  
   
 return 0;
