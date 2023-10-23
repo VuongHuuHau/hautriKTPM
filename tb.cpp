@@ -27,6 +27,6 @@ Clrscr();
   }
 
  
-  cout << "The perimiter of the rectangle is " << 2 * (height + width) << endl;
+  
 return 0;
 }
